@@ -1,0 +1,28 @@
+name: BattleOfWhoCouldCareLess
+favicon: null
+layout_spectrum: 0.01787248020991683
+typography_spectrum: 0.5104715160559863
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7781415646895766
+  lightness: 0.04351629107259214
+  saturation: 0.14378176908940077
+  rhythmicContrast: 0.09048248990438879
+purpose: []
